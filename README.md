@@ -1,13 +1,7 @@
-<h1 align="center">Hi, I'm Ahmed M. Mousa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"></h1>
+<h1 align="center">Hi, I'm Ahmed Mousa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Analog%2FMixed-Signal+IC+Design+Engineer;M.Sc.+Student+at+Cairo+University;Building+Precision+Analog+Blocks;Hardware+%26+Electronics+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmdmusa&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="ahmdmusa trophies" />
-  </a>
 </p>
 
 I'm an Analog/Mixed-Signal IC Design Engineer based in Egypt, currently pursuing my M.Sc. in Electrical Engineering at Cairo University.
@@ -45,5 +39,4 @@ Here are some of the hardware and IC design blocks I've worked on recently (sche
 Beyond my academic and personal projects, I have a mix of hands-on industry experience and specialized IC design training:
 - **Analog & RF IC Design Training**: Completed extensive programs at **NTI** (supervised by Dr. Mohamed El-Nozahi) and **ITI** (supervised by Dr. Hesham Omran), covering everything from op-amp stability, BGR, and LDOs to VCO/PLL and RF transceiver architectures.
 - **Process Electronic Engineer @ OPPO Egypt**: Optimized assembly line processes, performed root cause analysis, and supported new product introductions.
-- **Technical Engineering Instructor**: Currently teaching optical communications, FTTx networks, and applied electronics at WE Applied Technology School, bridging the gap between theory and practice.
 - **Freelance Hardware Engineer**: Designed and optimized analog/RF circuits (like a 5 GHz CMOS LNA) and authored technical engineering content.
